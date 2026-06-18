@@ -1,5 +1,5 @@
 <a id="top"></a>
-# 🚀 AWS EKS + Jenkins CI/CD — Project Workflow Execution.
+# 🚀 AWS EKS + Jenkins CI/CD — Project With Workflow Execution.
 
 > **Repository:** [java-blog-site-cicd-eks-project](https://github.com/swapnilmali101/java-blog-site-cicd-eks-project.git)
 
